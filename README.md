@@ -1,3 +1,4 @@
 # Nosso Projeto
-# Sempre que quiser criar algo adcione um branch.
-# Adcione branch com comentários.
+Sinta-se livre para editar o código.
+
+Mas lembre sempre de dizer oque mudou.
