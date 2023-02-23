@@ -1,6 +1,6 @@
 # Projeto de site de viagens
 
-Este é um projeto de site de viagens desenvolvido como trabalho final para a disciplina de PI. O objetivo do projeto era criar um site com um design atraente e navegação fácil.
+Este é um projeto de site de viagens desenvolvido como trabalho final para a disciplina de PI do primeiro semestre. O objetivo do projeto era criar um site com um design atraente e navegação fácil.
 
 ## Tecnologias utilizadas
 
@@ -19,4 +19,4 @@ O site tem um design moderno e atraente, com uma paleta de cores harmoniosa e fo
 
 ## Conclusão
 
-Embora este projeto tenha sido rejeitado pela professora de PI por não atender aos requisitos de uso de uma linguagem de programação específica, o desenvolvimento do site em HTML e SASS foi uma excelente oportunidade para explorar o design de sites, aprimorar as habilidades em front-end e aprender novas tecnologias. O projeto permanecerá disponível neste repositório como uma referência para futuros projetos web.
+Embora este projeto tenha sido rejeitado pela professora de PI por não atender aos requisitos de uso de uma linguagem de programação específica (java), o desenvolvimento do site em HTML e SASS foi uma excelente oportunidade para explorar o design de sites, aprimorar as habilidades em front-end e aprender novas tecnologias. O projeto permanecerá disponível neste repositório como uma referência para futuros projetos web.
