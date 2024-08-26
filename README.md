@@ -10,8 +10,9 @@ Este é um projeto de site de viagens desenvolvido como trabalho final para a di
 #### Img
 ![image](https://github.com/user-attachments/assets/b670dbe3-2345-468b-a59e-854d840d345c)
 ![image](https://github.com/user-attachments/assets/bf460c6b-bcb9-46d0-ae26-6131db898a22)
-![image](https://github.com/user-attachments/assets/96f5fef4-5300-4335-88fc-c12dbf3be430)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/581257fc-a85c-49eb-a4fc-498829103171)
+![image](https://github.com/user-attachments/assets/69709c56-a606-4598-9755-6c3aad8643aa)
+
 
 
 ## Como executar o projeto
