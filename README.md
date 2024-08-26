@@ -1,12 +1,14 @@
 # Projeto de site de viagens
 
 Este é um projeto de site de viagens desenvolvido como trabalho final para a disciplina de PI do primeiro semestre. O objetivo do projeto era criar um site com um design atraente e navegação fácil.
-
+(DESIGNED BY ME)
 ## Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - SASS
+#### Img
+![image](https://github.com/user-attachments/assets/b670dbe3-2345-468b-a59e-854d840d345c)
 
 ## Como executar o projeto
 
