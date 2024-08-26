@@ -9,6 +9,9 @@ Este é um projeto de site de viagens desenvolvido como trabalho final para a di
 - SASS
 #### Img
 ![image](https://github.com/user-attachments/assets/b670dbe3-2345-468b-a59e-854d840d345c)
+![image](https://github.com/user-attachments/assets/bf460c6b-bcb9-46d0-ae26-6131db898a22)
+![Uploading image.png…]()
+
 
 ## Como executar o projeto
 
